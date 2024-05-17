@@ -1,10 +1,17 @@
 Key Insights:
+
   Bike Type Preference: Electric bikes are gaining popularity.
+  
   User Patterns: Members take longer, more frequent trips.
+  
   Peak Usage: High during morning and evening rush hours.
+  
   Station Traffic: Certain stations have higher traffic.
+  
 Privacy Techniques:
+
   Differential Privacy: Protected individual user data.
+  
   Data Anonymization: Safeguarded personal identifiers.
 
 Thank you to my amazing team Urva Surti, Atharva Nirali, and Sumit Sakarkar, and our professor at Illinois Institute of Technology.
